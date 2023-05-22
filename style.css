@@ -1,0 +1,21 @@
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellowgreen;
+}
+.external
+{
+    font-size: xx-small;
+    background-color: black;
+    color: aliceblue;
+}
+#change
+{
+    background-color: blueviolet;
+}
+*
+{
+    background-color:aquamarine;
+}
+.ex{
+    border: 13px solid red;
+}
